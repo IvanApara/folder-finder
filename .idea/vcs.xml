@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HomeWork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dpo_java_basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-inheritance-basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_CollectionsMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_CollectionsSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_CollectionsSet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_collectionsarray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_collectionslist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_filesandnetwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_stringsTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sqlandhibernate" vcs="Git" />
+  </component>
+</project>
